@@ -1,3 +1,8 @@
 # coding: utf­8
-nombre = "Peponazo"
-print "Tu nombre es: " , nombre , " campeón"
+# Pau Martin
+
+edad =input ("Que edad tienes:")
+
+if (edad >=18) and (edad <=23):
+
+print "Puedes entrar!"
