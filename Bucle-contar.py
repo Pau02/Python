@@ -1,4 +1,5 @@
 #coding: utf8
+#Pau Martín Fernández
 
 salir="N"
 valor1=1
