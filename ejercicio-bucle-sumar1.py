@@ -5,14 +5,11 @@ numero=1
 maximo=5
 suma=0
 while ( salir=="N" ):
-    # Hago cosas
     print numero 
    
 	
     suma=suma+numero
-    # Incremento
     numero=numero+1
-    # Activo indicador de salida si toca
-    if ( numero > maximo ): # Condición de salida
+    if ( numero > maximo ):
             salir = "S"
 print "=" , suma 
