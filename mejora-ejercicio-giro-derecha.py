@@ -4,7 +4,7 @@ import os
 numero=1 
 maximo=8
 vueltas=input ("Cuantas vueltas quieres?: ") 
-giro=raw_input ("Hacia donde giro? COMO NO LO PONGAS CON MAYUSCULAS, TE PARTO LAS PIERNAS.")
+giro=raw_input ("Hacia donde giro? Porfavor, pongalo en mayusculas.")
 salir="N"
 while(salir=="N"): 
     if(numero%8==1) or (numero%8==2): 
